@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=RuleUser
+Name[ru]=RuleUser
+Comment=
+Comment[ru]=
+Exec=/usr/bin/ruleuser
+Icon=/usr/share/ruleuser/icons/ruleuser_32.png
+Terminal=false
+Type=Application
+Categories=Network;
